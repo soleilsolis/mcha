@@ -1,0 +1,33 @@
+[16-Jul-2022 10:01:54 UTC] wp_auto_login: trying to login user_id==1 loginusername=cllandicho@gmail.com to admin_url=https://mchacademy.com/wp-admin/
+[16-Jul-2022 11:27:22 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one second.
+[16-Jul-2022 11:27:22 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one second.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:23 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:24 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:25 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:25 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:26 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:28 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:28 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:28 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/. Error code: 429. Message: Too many client connections in one minute.
+[16-Jul-2022 11:27:28 UTC] There was an issue purging the cache for this URL: https://mchacademy.com/feed. Error code: 429. Message: Too many client connections in one minute.
+[07-Aug-2022 07:43:27 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `nis_options` WHERE `option_name` = '_transient_global_styles_svg_filters_hello-elementor' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/hello-elementor/index.php'), get_header, locate_template, load_template, require_once('/themes/hello-elementor/header.php'), hello_elementor_body_open, wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
